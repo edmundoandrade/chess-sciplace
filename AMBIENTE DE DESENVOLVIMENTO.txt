@@ -1,0 +1,13 @@
+1. install node js
+   install git
+   
+2. in command execute 
+		npm install -g cordova ionic
+		
+3. create app folder and clone
+		https://github.com/edmundoandrade/chess-sciplace.git
+		
+4. acess the new folder
+
+5. execute command:
+		ionic serve
