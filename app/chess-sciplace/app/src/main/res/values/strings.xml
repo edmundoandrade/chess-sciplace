@@ -14,8 +14,8 @@
     <item>Rating and Feedback</item>
 	<item>About</item>
 	</string-array>
-	<string name="app_name">ChessTastic™</string>
-    <string name="app_name_pop">ChessTastic™  Beta  1.0</string>
+	<string name="app_name">Chess-Sciplace™</string>
+    <string name="app_name_pop">Chess-Sciplace™  Beta  1.0</string>
     <string name="erd_title">Rate this app</string>
     <string name="erd_message">Hi, take a minute to rate this app and help me to improve and add new features. ;)</string>
     <string name="erd_no_thanks">Never</string>
@@ -187,7 +187,7 @@
 	</string-array>
 	<string name="about_info">\
 <b>About</b>\n\
-<i>ChessTastic</i> is a fully material designed Android Lollipop optimised game to fully enjoy the wonders of Chess. It is developed by Avijit Ghosh, and is based on, and a continuation of the incredible work done by several people, as stated below. \
+<i>Chess-Sciplace</i> is a fully material designed Android Lollipop optimised game to fully enjoy the wonders of Chess. It is developed by Avijit Ghosh, and is based on, and a continuation of the incredible work done by several people, as stated below. \
 \n\
 \n\
 <i>Dark Knight</i> , by darktemplar824, is an open-source GPLv3 Honeycomb-optimized fork of the Droidfish chess engine, an Android interface \
