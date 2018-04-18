@@ -544,7 +544,7 @@ public class ChessTastic extends AppCompatActivity implements GUIInterface, OnSh
 		drawerLayoutt = (DrawerLayout) findViewById(R.id.drawer_layout);
 		myadapter=new MyAdapter(this);
 		listView = (ListView) findViewById(R.id.left_drawer);
-		SpannableString s = new SpannableString("CHESSTASTIC");
+		SpannableString s = new SpannableString("CHESSSCIPLACE");
 		s.setSpan(new TypefaceSpan(this, "KlinicSlabBold.otf"), 0, s.length(),
 		        Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
 		TextView txt1 = (TextView) findViewById(R.id.status); 
