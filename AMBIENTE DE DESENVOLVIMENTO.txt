@@ -1,13 +1,11 @@
-1. install node js
-   install git
+1. Instalar o Android Studio
    
-2. in command execute 
-		npm install -g cordova ionic
-		
-3. create app folder and clone
+2. create app folder and clone
 		https://github.com/edmundoandrade/chess-sciplace.git
 		
-4. acess the new folder
+3. Abrir o android studio e importar o projeto
+	Se encontra na pasta: app/chess-sciplace
 
-5. execute command:
-		ionic serve
+4. Configurar o AVD Manager com um novo virtual device
+
+5. Executar o projeto apontando para o novo virtual device.

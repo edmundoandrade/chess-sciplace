@@ -16,9 +16,8 @@
 	  	app:showAsAction="always">
 	</item>
 
-	<!--  <item
+	<item
   		android:id="@+id/item_new_game"
-  		android:icon="@android:drawable/ic_menu_revert"
 	  	android:title="New game"
   		android:icon="@android:drawable/ic_menu_add" android:showAsAction="never">
 	</item>
@@ -67,12 +66,12 @@
 		android:id="@+id/item_force_move"
 		android:title="Force computer move">
 	</item>
-	<!
+
 	<item
 		android:id="@+id/item_draw"
 		android:title="Claim/Offer/Accept draw">
 	</item>
-  >
+
 	<item
 		android:id="@+id/select_book"
 		android:title="Select opening book">
@@ -81,5 +80,5 @@
 	<item
 		android:id="@+id/item_about"
 		android:title="About / Help">
-	</item> -->
+	</item>
 </menu>
