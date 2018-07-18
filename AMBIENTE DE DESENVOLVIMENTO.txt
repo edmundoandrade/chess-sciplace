@@ -9,3 +9,12 @@
 4. Configurar o AVD Manager com um novo virtual device
 
 5. Executar o projeto apontando para o novo virtual device.
+
+
+========================================================================================================
+export PATH="${HOME}/Library/Android/sdk/tools:${HOME}/Library/Android/sdk/platform-tools:${PATH}"
+
+Passos:
+	- configurar o path do android sdk e tools
+        - habilitar a developer options no device.
+        - habilitar usb debugging no device
